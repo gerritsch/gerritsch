@@ -7,7 +7,7 @@ Backend Developer
 I care a lot about building scalable and efficient services which have a positive impact. Furtermore, I am currently in the progress of expanding my knowledge to be able to develop full-stack applications.
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [gerritschoene.com](http://gerritschoene.com)
+* 🖥️  See my portfolio at [gerritschoene.me](http://gerritschoene.me)
 * ✉️  You can contact me at [gs@noqim.com](mailto:gs@noqim.com)
 * 🚀  I'm currently working on [Noqim](http://noqim.com)
 * 🧠  I'm learning SolidJS, Figma & Terraform
